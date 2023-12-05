@@ -10,10 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![AirborneLogic Logo](../logo1.jpg)
-![AirborneLogic Name](../logo6.jpg)
+![AirborneLogic Logo](./logo1.jpg)
+![AirborneLogic Name](./logo6.jpg)
 
-We are an Adelaide-based, spataial data and remote sensing startup.
+We are an Adelaide-based, spatial data and remote sensing startup.
 We leverage our considerable expertise in GIS, remote sensing, automation, machine learning and drones to generate actionable insights for land mangers across Australia.
 Our primary focus is viticulture, however we have successfully delivered projects ranging from assessments of carbon sequestration potential on pastoral stations through to tree counting in urban environment.
 
