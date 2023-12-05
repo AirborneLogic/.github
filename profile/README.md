@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<center>![AirborneLogic Logo](../logo1.jpg | width = 300)</center>
+![AirborneLogic Logo](../logo1.jpg | width = 300)
 ![AirborneLogic Name](../logo6.jpg | width = 600)
 
 We are an Adelaide-based, spatial data and remote sensing startup.
